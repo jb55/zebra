@@ -11,3 +11,7 @@ Usage
 $ zebra < file
 
 $ ps aux | zebra | less -S
+
+$ ps aux | zebra --light | less -S
+
+$ ps aux | zebra --color 128 | less -S
