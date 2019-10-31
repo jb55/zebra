@@ -1,0 +1,13 @@
+
+zebra
+=====
+
+Add zebra lines from stdin to stdout 
+
+
+Usage
+-----
+
+$ zebra < file
+
+$ ps aux | zebra | less -S
